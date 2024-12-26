@@ -9,7 +9,7 @@ This repository contains scripts and files designed for training and optimizing 
 This script is used for training and optimizing face identification models based on older datasets. The training process does not unify the background color of the images to white. It focuses on parameter tuning to achieve the best performance for datasets where the background is not normalized.
 
 ### 2. `Parameter_Optimization_for_new_data`
-Similar to the first script, this file focuses on training and optimizing face identification models. . Like the previous script, it does not unify the background color to white. Parameter optimization is conducted to enhance model accuracy on newer datasets.
+Similar to the first script, this file focuses on training and optimizing face identification models. Different from the previous script, it unifies the background color to white. Parameter optimization is conducted to enhance model accuracy on these datasets.
 
 ### 3. `task_three`
 This folder contains two subdirectories, each addressing a different approach to training and data handling:
