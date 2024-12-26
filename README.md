@@ -1,4 +1,4 @@
-# machine_learning_final_project_group7
+# machine_learning_final_project_group30
 # README
 
 This repository contains scripts and files designed for training and optimizing face identification models. Each script is tailored for specific data processing and modeling approaches. Below is a detailed explanation of each file and its purpose:
